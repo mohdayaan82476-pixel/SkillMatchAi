@@ -1,5 +1,4 @@
-# 🚀 SkillMatch AI
-
+🔥 AI-Powered Job Matching + Interview Platform | Built for Hackathons 🚀
 SkillMatch AI is an intelligent career assistant platform that helps users match their skills to real job opportunities, improve their resumes, and prepare for interviews using AI.
 
 ---
